@@ -127,3 +127,12 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+data/brown-test-sentences.txt
+data/brown-test-tags.txt
+data/brown-train-sentences.txt
+data/brown-train-tags.txt
+data/simple-test-sentences.txt
+data/simple-test-tags.txt
+data/simple-train-sentences.txt
+data/simpl-train-tags.txt
