@@ -1,6 +1,4 @@
 # author
-# hi
-# hi
 
 ## oijsdoiafjdsaiojfiosdaj
 
